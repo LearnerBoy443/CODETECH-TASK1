@@ -1,28 +1,38 @@
-Name:ABHIRUP CHAKRABORTY
-Company:CODETECH IT SOLUTIONS
-ID :CT08DS6061
-Domain:Python Programming
-Duration:AUGUST 1st, 2024 to SEPTEMBER 1st
-Mentor:Muzammil Ahmed 
-Overview 
-This Python program is designed to manage inventory for a store or warehouse, using SQLite for the database and Tkinter for the graphical user interface (GUI). Below is a breakdown of the key components:
-![Screenshot 2024-08-07 215214](https://github.com/user-attachments/assets/d474500a-1021-405a-a2e9-475cf41a5b25)
-Code Overview
-1.Efficient Inventory Management:
+# Inventory Management System
 
-Enable store or warehouse managers to easily add, edit, and delete product information in a structured and efficient manner.
-2.User Authentication:
+### **Project Overview**
+This Python program is designed to manage inventory for a store or warehouse, featuring a secure and intuitive interface powered by Tkinter and robust data storage using SQLite.
 
-Ensure secure access to the system by implementing a basic authentication mechanism to restrict access to authorized users only.
-3.Data Validation:
+**Developer:** Abhirup Chakraborty  
+**Company:** Codetech IT Solutions  
+**Domain:** Python Programming  
+**Duration:** August 1st, 2024 to September 1st, 2024  
+**Mentor:** Muzammil Ahmed  
 
-Validate user inputs to maintain data integrity and prevent errors during data entry operations.
-4.Real-time Inventory Tracking:
+---
 
-Provide real-time tracking of inventory levels, allowing users to monitor stock quantities and make informed decisions.
-5.Low-stock Alerts:
+### **Key Features**
+1. **Efficient Inventory Management:**
+   - Easily add, edit, and delete product information, enabling streamlined and organized inventory management for store or warehouse managers.
 
-Automatically generate alerts for products with low stock levels to help prevent stockouts and ensure timely restocking.
-6.Graphical User Interface (GUI):
+2. **User Authentication:**
+   - Implement a basic authentication mechanism to restrict access to authorized users, ensuring secure access to the system.
 
-Offer an intuitive and user-friendly interface using Tkinter, making it easy for users to interact with the system without needing extensive technical knowledge.
+3. **Data Validation:**
+   - Validate user inputs to maintain data integrity and prevent errors during data entry operations, ensuring reliable and accurate inventory data.
+
+4. **Real-time Inventory Tracking:**
+   - Monitor stock quantities in real-time, allowing users to make informed decisions and maintain optimal inventory levels.
+
+5. **Low-stock Alerts:**
+   - Automatically generate alerts for products with low stock levels, helping to prevent stockouts and ensure timely restocking.
+
+6. **Graphical User Interface (GUI):**
+   - Provide an intuitive and user-friendly interface using Tkinter, making the system easy to use without requiring extensive technical knowledge.
+
+---
+
+### **Screenshot**
+![Inventory Management System](https://github.com/user-attachments/assets/d474500a-1021-405a-a2e9-475cf41a5b25)
+
+---
